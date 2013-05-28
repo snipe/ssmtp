@@ -7,7 +7,7 @@ Email as we know it just doesn't work anymore. Fighting spam has become a losing
 
 We're working on gathering requirements for a new email protocol, one that is easy to implement, easy to use (as an end-user), and is more secure. We don't have all the answers yet, but we're trying to work some of that out here. Feel free to contribute if you have any ideas! 
 
-Whil we definitely aim to look to the research and brilliance of others (such as DJB with Internet Mail 2000), we want to approach this with fresh eyes, taking into consideration the current state of spam, hacking, phishing and spoofing, and where trends indicate it will go from here. We're starting from the business requirements first, and seeing where this takes us. 
+While we definitely aim to look to the research and brilliance of others (such as DJB with Internet Mail 2000), we want to approach this with fresh eyes, taking into consideration the current state of spam, hacking, phishing and spoofing, and where trends indicate it will go from here. We're starting from the business requirements first, and seeing where this takes us. 
 
 In discussing this with colleagues (over beer and brunch - very technical stuff), we realized that several of the social networks have gotten it pretty close: 
 
