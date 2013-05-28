@@ -9,6 +9,14 @@ We're working on gathering requirements for a new email protocol, one that is ea
 
 Whil we definitely aim to look to the research and brilliance of others (such as DJB with Internet Mail 2000), we want to approach this with fresh eyes, taking into consideration the current state of spam, hacking, phishing and spoofing, and where trends indicate it will go from here. We're starting from the business requirements first, and seeing where this takes us. 
 
+In discussing this with colleagues (over beer and brunch - very technical stuff), we realized that several of the social networks have gotten it pretty close: 
+
+On Facebook, if someone you're friends with sends you Facebook Message, it goes into your FB Inbox and you are alerted that you have a new message. If someone you're not Facebook friends with sends you a message, it gets filed in Facebook's version of a SPAM box, labeled "Other". Messages from Facebook fan pages you "liked" also appear here and bypass your Inbox altogether.
+
+On Twitter, messaging is much simpler. If you are following someone on Twitter, they can send you a direct (private) message. If you do not follow them, they cannot privately message you. If you have blocked them, you will not see @replies to you, and they will be prevented from sending you direct messages.
+
+So the challenge here is partly how to handle those layers of relationships and trust. We certainly don't want a corporation holding the keys to those relationships, so we need something federated. 
+
 
 Rough Requirements
 --------
@@ -32,7 +40,7 @@ Disorganized thoughts
 - Backwards Compatibility with SMTP?
 - Distributed By Nature?
 - Mobile/Multi-device friendly?
-- Consider ammending/usurping/replacing IMAP as well? 
+- Consider amending/usurping/replacing IMAP as well? 
 - Can it just be a SpamAssassin plugin with a distributed friend-network component?
 - Is it just SMTP with some new headers?
 
