@@ -22,6 +22,7 @@ Use Cases to Consider
 - User gets hacked - they need to revoke their own keys, people with their public key need to be able to invalidate it (and possibly notify the user)
 - People will try to hack this, of course. How, and how can we mitigate? 
 - Like spam filters of today, how do I let a legit stranger contact me and not get caught in spam traps?
+- DDoS mitigation
 
 Disorganized thoughts
 --------
@@ -31,3 +32,8 @@ Disorganized thoughts
 - Consider ammending/usurping/replacing IMAP as well? 
 - Can it just be a SpamAssassin plugin with a distributed friend-network component?
 - Is it just SMTP with some new headers?
+
+Useful Articles
+--------
+- http://en.wikipedia.org/wiki/Internet_Mail_2000
+- http://en.wikipedia.org/wiki/Proof-of-work_system (+ certs?)
