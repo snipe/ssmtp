@@ -11,7 +11,7 @@ Whil we definitely aim to look to the research and brilliance of others (such as
 
 In discussing this with colleagues (over beer and brunch - very technical stuff), we realized that several of the social networks have gotten it pretty close: 
 
-On Facebook, if someone you're friends with sends you Facebook Message, it goes into your FB Inbox and you are alerted that you have a new message. If someone you're not Facebook friends with sends you a message, it gets filed in Facebook's version of a SPAM box, labeled "Other". Messages from Facebook fan pages you "liked" also appear here and bypass your Inbox altogether.
+On Facebook, if someone you're friends with sends you a Facebook Message, it goes into your FB Inbox and you are alerted that you have a new message. If someone you're not Facebook friends with sends you a message, it gets filed in Facebook's version of a pseudo-SPAM box, labeled "Other". Messages from Facebook fan pages you "liked" also appear here and bypass your Inbox altogether.
 
 On Twitter, messaging is much simpler. If you are following someone on Twitter, they can send you a direct (private) message. If you do not follow them, they cannot privately message you. If you have blocked them, you will not see @replies to you, and they will be prevented from sending you direct messages.
 
