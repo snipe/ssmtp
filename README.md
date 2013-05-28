@@ -1,4 +1,4 @@
-SSMTP - Secure Simple Mail Transport Protocol
+SSMTP - Secure Simple Mail Transport Protocol *
 =====
 
 Summary
@@ -37,3 +37,5 @@ Useful Articles
 --------
 - http://en.wikipedia.org/wiki/Internet_Mail_2000
 - http://en.wikipedia.org/wiki/Proof-of-work_system (+ certs?)
+
+* THIS NAME WILL PROBABLY CHANGE. We know Debian ships with an SSMTP :P One problem at a time. "There are only two hard things in programming: naming things, cache invalidation and off-by-one errors."
