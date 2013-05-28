@@ -22,3 +22,12 @@ Use Cases to Consider
 - User gets hacked - they need to revoke their own keys, people with their public key need to be able to invalidate it (and possibly notify the user)
 - People will try to hack this, of course. How, and how can we mitigate? 
 - Like spam filters of today, how do I let a legit stranger contact me and not get caught in spam traps?
+
+Disorganized thoughts
+--------
+- Backwards Compatibility with SMTP?
+- Distributed By Nature?
+- Mobile/Multi-device friendly?
+- Consider ammending/usurping/replacing IMAP as well? 
+- Can it just be a SpamAssassin plugin with a distributed friend-network component?
+- Is it just SMTP with some new headers?
