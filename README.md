@@ -27,13 +27,14 @@ Rough Requirements
     - Known: Newsletters, people you've just met and want to hear from, but you don't know well
     - Unknown: probably spam, but might not always be
 
-Use Cases to Consider
+Use-Cases to Consider
 --------
 - Slow-adopting enterprise - need sane fallbacks, but not so sane that they discourage adoption
 - User gets hacked - they need to revoke their own keys, people with their public key need to be able to invalidate it (and possibly notify the user)
 - People will try to hack this, of course. How, and how can we mitigate? 
 - Like spam filters of today, how do I let a legit stranger contact me and not get caught in spam traps?
 - DDoS mitigation
+- Chain of Custody (losing BCC headers in IMAP Sent items, etc)
 
 Disorganized thoughts
 --------
