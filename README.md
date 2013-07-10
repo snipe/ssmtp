@@ -1,3 +1,4 @@
+[![Stories in Ready](http://badge.waffle.io/snipe/ssmtp.png)](http://waffle.io/snipe/ssmtp)  
 SSMTP - Secure Simple Mail Transport Protocol *
 =====
 
